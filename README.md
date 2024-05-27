@@ -1,28 +1,4 @@
-Random meme/quote
 
-
-Support badge
-Choose an option
-Live Preview
-
-Hi 👋, I'm Agne
-A curiuos data analyst from Lithuania
-🔭 I’m currently studying as Data Analyst
-🌱 I’m currently learning Python
-💬 Ask me about anything
-📫 How to reach me agne.vidugiryte@gmail.com
-⚡ Could we overtake data with wind surfboard ? ;)
-Connect with me
-LinkedIn Instagram
-
-Languages and tools
-Python Pandas NumPy MySQL Canva
-
-My Github Stats
-
-
-Random Meme
- ### Support: [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]()
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=ef3072&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+Agne,+Curious+Data+Analyst;Love+windsurfing,+let's+catch+some+wind+and+data!" width="100%">
