@@ -22,13 +22,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-### My Github Stats 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agnevidugiryte&theme=default&show_icons=true&locale=en&layout=compact"/> 
-</p>
-
-### Random Meme 
-
-<img src="https://random-memer.herokuapp.com/" width="100%"> 
-### Support: 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]()
